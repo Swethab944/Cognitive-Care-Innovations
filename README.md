@@ -5,21 +5,21 @@
 
 **Objectives:**
 
-  **Data Preprocessing and Analysis:**
-  
-    **Handle missing values:** The code systematically addresses missing data, replacing default strings with appropriate values and reporting on the extent of missingness.
-    **Encode categorical features:** Utilizing Label Encoding, categorical data is transformed into a numerical format conducive to machine learning model training.
-    **Explore correlations:** The code generates a heatmap, providing insights into the correlation structure, with a specific focus on the target variable "treatment."
+**Data Preprocessing and Analysis:**
+
+  **Handle missing values:** The code systematically addresses missing data, replacing default strings with appropriate values and reporting on the extent of missingness.
+  **Encode categorical features:** Utilizing Label Encoding, categorical data is transformed into a numerical format conducive to machine learning model training.
+  **Explore correlations:** The code generates a heatmap, providing insights into the correlation structure, with a specific focus on the target variable "treatment."
     
-  **Model Training and Evaluation:**
+**Model Training and Evaluation:**
+
+  **Implement diverse classifiers:** Logistic Regression, Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and a TensorFlow-based Deep Neural Network are employed for predicting mental health treatment outcomes.
+  **Hyperparameter tuning:** The code utilizes Randomized Search Cross-Validation to fine-tune model parameters, ensuring optimal performance.
   
-    **Implement diverse classifiers:** Logistic Regression, Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and a TensorFlow-based Deep Neural Network are employed for predicting mental health treatment outcomes.
-    **Hyperparameter tuning:** The code utilizes Randomized Search Cross-Validation to fine-tune model parameters, ensuring optimal performance.
-    
-  **Results and Visualization:**
-  
-    **Evaluate model accuracy:** The code assesses the accuracy of each model and visualizes feature importances, offering interpretability.
-    **TensorFlow DNN implementation:** A deep neural network using TensorFlow's Estimator API is trained and evaluated on the dataset.
+**Results and Visualization:**
+
+  **Evaluate model accuracy:** The code assesses the accuracy of each model and visualizes feature importances, offering interpretability.
+  **TensorFlow DNN implementation:** A deep neural network using TensorFlow's Estimator API is trained and evaluated on the dataset.
 
 **Proposed System:**
 
