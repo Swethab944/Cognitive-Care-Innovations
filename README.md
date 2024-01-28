@@ -42,3 +42,8 @@
 
   In conclusion, the implemented machine learning pipeline stands as a valuable tool for predicting mental health treatment outcomes based on survey data. The code not only addresses data preprocessing challenges but also offers a comparative analysis of diverse classifiers and a deep neural network. The success of each method is showcased through accuracy metrics, providing insights into their respective performances. Future improvements may involve additional feature engineering, continued model refinement, and the exploration of advanced techniques to further elevate predictive accuracy in the realm of mental health analytics.
 
+
+
+https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/7df1657a-4147-4708-a75a-dc4fac3bf403
+
+
