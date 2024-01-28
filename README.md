@@ -16,16 +16,23 @@
 
   **Implement diverse classifiers:** Logistic Regression, Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and a TensorFlow-based Deep Neural Network are employed for predicting mental health treatment outcomes.
   **Hyperparameter tuning:** The code utilizes Randomized Search Cross-Validation to fine-tune model parameters, ensuring optimal performance.
+  ![image](https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/7fcf1d10-482c-4b4f-ad4b-6394c324c599)
+
   
 **Results and Visualization:**
 
   **Evaluate model accuracy:** The code assesses the accuracy of each model and visualizes feature importances, offering interpretability.
   **TensorFlow DNN implementation:** A deep neural network using TensorFlow's Estimator API is trained and evaluated on the dataset.
+  ![image](https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/b25ee5d8-6b1e-4599-a40b-22653fb9e509)
+
 
 # Proposed System:
 
   The proposed system is designed to contribute to the field of mental health analytics by providing a robust machine learning-based approach for predicting treatment outcomes. The inclusion of various classifiers, hyperparameter tuning, and the integration of a deep neural network using TensorFlow showcase the versatility and depth of the proposed system. The goal is to enhance predictive accuracy and provide a foundation for further exploration and refinement in mental health research.
 
+  https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/ed77cb79-cf75-4f58-9530-4a529921366f
+
 # Conclusion:
 
   In conclusion, the implemented machine learning pipeline stands as a valuable tool for predicting mental health treatment outcomes based on survey data. The code not only addresses data preprocessing challenges but also offers a comparative analysis of diverse classifiers and a deep neural network. The success of each method is showcased through accuracy metrics, providing insights into their respective performances. Future improvements may involve additional feature engineering, continued model refinement, and the exploration of advanced techniques to further elevate predictive accuracy in the realm of mental health analytics.
+
