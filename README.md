@@ -3,6 +3,8 @@
 
   In the realm of data-driven decision-making, the provided code implements a comprehensive machine learning pipeline to predict mental health treatment outcomes using survey data. With a focus on addressing missing values, encoding categorical features, and deploying various classifiers, the code contributes to the ongoing efforts in leveraging machine learning for mental health analytics. The dataset, sourced from a CSV file, undergoes preprocessing to ensure data quality, setting the stage for the subsequent model training and evaluation.
 
+  **Youtube Video Link**: https://www.youtube.com/watch?v=szhK7KUfqA4
+
 # oneAPI
 
   oneAPI is an open, standards-based programming model designed to simplify development across diverse computing architectures. It is an initiative led by Intel, aiming to provide a unified programming model for heterogeneous computing environments, including CPUs, GPUs, FPGAs, and other accelerators.Optimizing code for oneAPI involves leveraging the features and tools provided by the oneAPI programming model to achieve better performance on diverse computing architectures.
@@ -42,8 +44,4 @@
 
   In conclusion, the implemented machine learning pipeline stands as a valuable tool for predicting mental health treatment outcomes based on survey data. The code not only addresses data preprocessing challenges but also offers a comparative analysis of diverse classifiers and a deep neural network. The success of each method is showcased through accuracy metrics, providing insights into their respective performances. Future improvements may involve additional feature engineering, continued model refinement, and the exploration of advanced techniques to further elevate predictive accuracy in the realm of mental health analytics.
 
-
-
-https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/7df1657a-4147-4708-a75a-dc4fac3bf403
-
-
+https://github.com/Swethab944/Cognitive-Care-Innovations/assets/143270097/b63bafb9-84b5-488e-b069-39c3aff596eb
